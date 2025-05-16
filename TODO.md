@@ -14,7 +14,9 @@
 
 - cleanup intellij (settings) and export to this repo
 
-- rename to .dev_setup?
+- rename to .dev-setup?
+
+- change stow to simple symlinks?
 
 - decide for more verbose/quiet output
 
